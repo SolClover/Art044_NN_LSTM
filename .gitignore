@@ -1,0 +1,6 @@
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Mac Finder Info
+.DS_Store
